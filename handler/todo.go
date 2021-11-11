@@ -12,5 +12,5 @@ func (h *Handler) CreateTodo(rw http.ResponseWriter, r *http.Request) {
 	}
 	taskName := r.FormValue("task")
 	//log.Println("Tesk name :", taskName)
-	fmt.Fprintf(rw, "Task name:%s", taskName)
+	fmt.Fprintf(rw, "Task Name:%s", taskName)
 }
