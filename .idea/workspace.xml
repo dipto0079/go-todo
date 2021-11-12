@@ -5,14 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ba699561-2d2c-4bbe-bb9e-a4a64431e6de" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/template/create-todo.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/template/edit-todo.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/template/list-todo.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/handler/handler.go" beforeDir="false" afterPath="$PROJECT_DIR$/handler/handler.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/handler/home.go" beforeDir="false" afterPath="$PROJECT_DIR$/handler/home.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/handler/todo.go" beforeDir="false" afterPath="$PROJECT_DIR$/handler/todo.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/list-todo.html" beforeDir="false" afterPath="$PROJECT_DIR$/template/list-todo.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
